@@ -97,7 +97,7 @@ session_start();
                                    required 
                                    minlength="3"
                                    maxlength="100"
-                                   placeholder="Ej: Iván Caral">
+                                   placeholder="Ej: Iván Coral">
                             <div class="invalid-feedback">
                                 Por favor ingresa tu nombre completo (mínimo 3 caracteres)
                             </div>
